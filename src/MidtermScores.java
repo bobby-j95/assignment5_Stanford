@@ -1,6 +1,8 @@
 import java.io.*;
 
-/*
+/*This program prints starts next to midterm scores grouped by values of 10.
+ * For each grade, from the file,
+ *  it adds a start to that respective row with a star and prints the tallies.
  * Created By: Robert Johns Jr.
  */
 public class MidtermScores {

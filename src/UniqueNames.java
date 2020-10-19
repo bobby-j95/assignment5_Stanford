@@ -1,6 +1,8 @@
 import java.util.*;
 
-/*
+/*This program lets the user input names into a list.
+ * If the list already has that name then it isn't added to the list.
+ * After all of that, it outputs all names.
  * Created By: Robert Johns Jr.
  */
 public class UniqueNames {
